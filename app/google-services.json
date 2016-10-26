@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468990523969",
+    "firebase_url": "https://firelesson-22af3.firebaseio.com",
+    "project_id": "firelesson-22af3",
+    "storage_bucket": "firelesson-22af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468990523969:android:740c71f61a3a5d60",
+        "android_client_info": {
+          "package_name": "com.islavdroid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468990523969-55acb5f5m630jldlheord72oab8k72h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islavdroid.myapplication",
+            "certificate_hash": "F071D418D19788CFDFC5BD85B280A12D84486269"
+          }
+        },
+        {
+          "client_id": "468990523969-d2ek2ve5o932ffd1d4r3tlrfqg7349gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsDAdptswnTiDwERjgZMMvkFY9fnhb9K0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468990523969-d2ek2ve5o932ffd1d4r3tlrfqg7349gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
